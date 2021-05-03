@@ -91,5 +91,6 @@ void main(void)
 	result = evalPostfix(express);
 	printf("\n\n연산 결과 => %d", result);
 
+
 	getchar();
 }
